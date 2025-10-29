@@ -1,0 +1,1592 @@
+[
+  {
+    "type": "Vocab",
+    "eng": "Apple",
+    "jp": "りんご",
+    "category": "食べ物",
+    "audio": "apple.mp3",
+    "image": "apple.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4876
+  },
+  {
+    "type": "Vocab",
+    "eng": "Badger",
+    "jp": "アナグマ",
+    "category": "動物",
+    "audio": "badger.mp3",
+    "image": "badger.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.476
+  },
+  {
+    "type": "Vocab",
+    "eng": "Bag",
+    "jp": "カバン",
+    "category": "日常",
+    "audio": "bag.mp3",
+    "image": "bag.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3135
+  },
+  {
+    "type": "Vocab",
+    "eng": "Ball",
+    "jp": "ボール",
+    "category": "日常",
+    "audio": "ball.mp3",
+    "image": "ball.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.418
+  },
+  {
+    "type": "Vocab",
+    "eng": "Banana",
+    "jp": "バナナ",
+    "category": "食べ物",
+    "audio": "banana.mp3",
+    "image": "banana.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5805
+  },
+  {
+    "type": "Vocab",
+    "eng": "Bat",
+    "jp": "コウモリ",
+    "category": "動物",
+    "audio": "bat.mp3",
+    "image": "bat.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3715
+  },
+  {
+    "type": "Vocab",
+    "eng": "Bear",
+    "jp": "<span class='ruby-wrapper'>熊<span class='furigana'>くま</span></span>",
+    "category": "動物",
+    "audio": "bear.mp3",
+    "image": "bear.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3251
+  },
+  {
+    "type": "Vocab",
+    "eng": "Black",
+    "jp": "<span class='ruby-wrapper'>黒<span class='furigana'>くろ</span></span>",
+    "category": "色",
+    "audio": "black.mp3",
+    "image": "black.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.2786
+  },
+  {
+    "type": "Vocab",
+    "eng": "Blue",
+    "jp": "<span class='ruby-wrapper'>青<span class='furigana'>あお</span></span>",
+    "category": "色",
+    "audio": "blue.mp3",
+    "image": "blue.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4528
+  },
+  {
+    "type": "Vocab",
+    "eng": "Book",
+    "jp": "<span class='ruby-wrapper'>本<span class='furigana'>ほん</span></span>",
+    "category": "日常",
+    "audio": "book.mp3",
+    "image": "book.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.2438
+  },
+  {
+    "type": "Vocab",
+    "eng": "Box",
+    "jp": "<span class='ruby-wrapper'>箱<span class='furigana'>はこ</span></span>",
+    "category": "日常",
+    "audio": "box.mp3",
+    "image": "box.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4296
+  },
+  {
+    "type": "Vocab",
+    "eng": "Bread",
+    "jp": "パン",
+    "category": "食べ物",
+    "audio": "bread.mp3",
+    "image": "bread.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3483
+  },
+  {
+    "type": "Vocab",
+    "eng": "Brown",
+    "jp": "<span class='ruby-wrapper'>茶<span class='furigana'>ちゃ</span></span><span class='ruby-wrapper'>色<span class='furigana'>いろ</span></span>",
+    "category": "色",
+    "audio": "brown.mp3",
+    "image": "brown.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4992
+  },
+  {
+    "type": "Vocab",
+    "eng": "Butter",
+    "jp": "バター",
+    "category": "食べ物",
+    "audio": "butter.mp3",
+    "image": "butter.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4644
+  },
+  {
+    "type": "Vocab",
+    "eng": "Butterfly",
+    "jp": "<span class='ruby-wrapper'>蝶<span class='furigana'>ちょう</span></span>",
+    "category": "動物",
+    "audio": "butterfly.mp3",
+    "image": "butterfly.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5921
+  },
+  {
+    "type": "Vocab",
+    "eng": "Cabbage",
+    "jp": "キャベッツ",
+    "category": "食べ物",
+    "audio": "cabbage.mp3",
+    "image": "cabbage.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4992
+  },
+  {
+    "type": "Vocab",
+    "eng": "Cake",
+    "jp": "ケーキ",
+    "category": "食べ物",
+    "audio": "cake.mp3",
+    "image": "cake.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.2902
+  },
+  {
+    "type": "Vocab",
+    "eng": "Camel",
+    "jp": "ラクダ",
+    "category": "動物",
+    "audio": "camel.mp3",
+    "image": "camel.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4296
+  },
+  {
+    "type": "Vocab",
+    "eng": "Candy",
+    "jp": "<span class='ruby-wrapper'>飴<span class='furigana'>あめ</span></span>",
+    "category": "食べ物",
+    "audio": "candy.mp3",
+    "image": "candy.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5224
+  },
+  {
+    "type": "Vocab",
+    "eng": "Carrot",
+    "jp": "にんじん",
+    "category": "食べ物",
+    "audio": "carrot.mp3",
+    "image": "carrot.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5689
+  },
+  {
+    "type": "Vocab",
+    "eng": "Cat",
+    "jp": "<span class='ruby-wrapper'>猫<span class='furigana'>ねこ</span></span>",
+    "category": "動物",
+    "audio": "cat.mp3",
+    "image": "cat.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4063
+  },
+  {
+    "type": "Vocab",
+    "eng": "Cheese",
+    "jp": "チーズ",
+    "category": "食べ物",
+    "audio": "cheese.mp3",
+    "image": "cheese.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.6269
+  },
+  {
+    "type": "Vocab",
+    "eng": "Chestnut",
+    "jp": "<span class='ruby-wrapper'>栗<span class='furigana'>くり</span></span>",
+    "category": "食べ物",
+    "audio": "chestnut.mp3",
+    "image": "chestnut.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.6618
+  },
+  {
+    "type": "Vocab",
+    "eng": "Chicken",
+    "jp": "ニワトリ",
+    "category": "動物",
+    "audio": "chicken.mp3",
+    "image": "chicken.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.476
+  },
+  {
+    "type": "Vocab",
+    "eng": "Chocolate",
+    "jp": "チョコレート",
+    "category": "食べ物",
+    "audio": "chocolate.mp3",
+    "image": "chocolate.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5689
+  },
+  {
+    "type": "Vocab",
+    "eng": "Chopsticks",
+    "jp": "<span class='ruby-wrapper'>箸<span class='furigana'>はし</span></span>",
+    "category": "日常",
+    "audio": "chopsticks.mp3",
+    "image": "chopsticks.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.743
+  },
+  {
+    "type": "Vocab",
+    "eng": "Clock",
+    "jp": "<span class='ruby-wrapper'>時<span class='furigana'>と</span></span><span class='ruby-wrapper'>計<span class='furigana'>けい</span></span>",
+    "category": "日常",
+    "audio": "clock.mp3",
+    "image": "clock.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.2438
+  },
+  {
+    "type": "Vocab",
+    "eng": "Coffee",
+    "jp": "コーヒー",
+    "category": "食べ物",
+    "audio": "coffee.mp3",
+    "image": "coffee.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.476
+  },
+  {
+    "type": "Vocab",
+    "eng": "Coin",
+    "jp": "<span class='ruby-wrapper'>硬<span class='furigana'>こう</span></span><span class='ruby-wrapper'>貨<span class='furigana'>か</span></span>",
+    "category": "日常",
+    "audio": "coin.mp3",
+    "image": "coin.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4412
+  },
+  {
+    "type": "Vocab",
+    "eng": "Comb",
+    "jp": "<span class='ruby-wrapper'>櫛<span class='furigana'>くし</span></span>",
+    "category": "日常",
+    "audio": "comb.mp3",
+    "image": "comb.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5108
+  },
+  {
+    "type": "Vocab",
+    "eng": "Cow",
+    "jp": "ウシ",
+    "category": "動物",
+    "audio": "cow.mp3",
+    "image": "cow.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4412
+  },
+  {
+    "type": "Vocab",
+    "eng": "Crocodile",
+    "jp": "ワニ",
+    "category": "動物",
+    "audio": "crocodile.mp3",
+    "image": "crocodile.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.6734
+  },
+  {
+    "type": "Vocab",
+    "eng": "Crow",
+    "jp": "カラス",
+    "category": "動物",
+    "audio": "crow.mp3",
+    "image": "crow.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4992
+  },
+  {
+    "type": "Vocab",
+    "eng": "Cucumber",
+    "jp": "キューリ",
+    "category": "食べ物",
+    "audio": "cucumber.mp3",
+    "image": "cucumber.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5457
+  },
+  {
+    "type": "Vocab",
+    "eng": "Cup",
+    "jp": "カップ",
+    "category": "日常",
+    "audio": "cup.mp3",
+    "image": "cup.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.2554
+  },
+  {
+    "type": "Vocab",
+    "eng": "Deer",
+    "jp": "シカ",
+    "category": "動物",
+    "audio": "deer.mp3",
+    "image": "deer.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4296
+  },
+  {
+    "type": "Vocab",
+    "eng": "Dog",
+    "jp": "<span class='ruby-wrapper'>犬<span class='furigana'>いぬ</span></span>",
+    "category": "動物",
+    "audio": "dog.mp3",
+    "image": "dog.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4412
+  },
+  {
+    "type": "Vocab",
+    "eng": "Doll",
+    "jp": "<span class='ruby-wrapper'>人<span class='furigana'>にん</span></span><span class='ruby-wrapper'>形<span class='furigana'>ぎょう</span></span>",
+    "category": "日常",
+    "audio": "doll.mp3",
+    "image": "doll.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3947
+  },
+  {
+    "type": "Vocab",
+    "eng": "Dolphin",
+    "jp": "イルカ",
+    "category": "動物",
+    "audio": "dolphin.mp3",
+    "image": "dolphin.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5341
+  },
+  {
+    "type": "Vocab",
+    "eng": "Dressing",
+    "jp": "ドレシング",
+    "category": "食べ物",
+    "audio": "dressing.mp3",
+    "image": "dressing.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5224
+  },
+  {
+    "type": "Vocab",
+    "eng": "Duck",
+    "jp": "アヒル",
+    "category": "動物",
+    "audio": "duck.mp3",
+    "image": "duck.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.2322
+  },
+  {
+    "type": "Vocab",
+    "eng": "Egg",
+    "jp": "<span class='ruby-wrapper'>卵<span class='furigana'>たまご</span></span>",
+    "category": "食べ物",
+    "audio": "egg.mp3",
+    "image": "egg.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3135
+  },
+  {
+    "type": "Vocab",
+    "eng": "Eggplant",
+    "jp": "ナス",
+    "category": "食べ物",
+    "audio": "eggplant.mp3",
+    "image": "eggplant.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.743
+  },
+  {
+    "type": "Vocab",
+    "eng": "Eight",
+    "jp": "<span class='ruby-wrapper'>八<span class='furigana'>はち</span></span>",
+    "category": "数字",
+    "audio": "eight.mp3",
+    "image": "eight.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3947
+  },
+  {
+    "type": "Vocab",
+    "eng": "Eighteen",
+    "jp": "<span class='ruby-wrapper'>十<span class='furigana'>じゅう</span></span><span class='ruby-wrapper'>八<span class='furigana'>はち</span></span>",
+    "category": "数字",
+    "audio": "eighteen.mp3",
+    "image": "eighteen.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5921
+  },
+  {
+    "type": "Vocab",
+    "eng": "Elephant",
+    "jp": "<span class='ruby-wrapper'>象<span class='furigana'>ぞう</span></span>",
+    "category": "動物",
+    "audio": "elephant.mp3",
+    "image": "elephant.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.6153
+  },
+  {
+    "type": "Vocab",
+    "eng": "Eleven",
+    "jp": "<span class='ruby-wrapper'>十<span class='furigana'>じゅう</span></span><span class='ruby-wrapper'>一<span class='furigana'>いち</span></span>",
+    "category": "数字",
+    "audio": "eleven.mp3",
+    "image": "eleven.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.6618
+  },
+  {
+    "type": "Vocab",
+    "eng": "Fifteen",
+    "jp": "<span class='ruby-wrapper'>十<span class='furigana'>じゅう</span></span><span class='ruby-wrapper'>五<span class='furigana'>ご</span></span>",
+    "category": "数字",
+    "audio": "fifteen.mp3",
+    "image": "fifteen.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.6966
+  },
+  {
+    "type": "Vocab",
+    "eng": "Five",
+    "jp": "<span class='ruby-wrapper'>五<span class='furigana'>ご</span></span>",
+    "category": "数字",
+    "audio": "five.mp3",
+    "image": "five.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.418
+  },
+  {
+    "type": "Vocab",
+    "eng": "Flour",
+    "jp": "<span class='ruby-wrapper'>小<span class='furigana'>こ</span></span><span class='ruby-wrapper'>麦<span class='furigana'>むぎ</span></span><span class='ruby-wrapper'>粉<span class='furigana'>こ</span></span>",
+    "category": "食べ物",
+    "audio": "flour.mp3",
+    "image": "flour.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5921
+  },
+  {
+    "type": "Vocab",
+    "eng": "Fork",
+    "jp": "フォーク",
+    "category": "日常",
+    "audio": "fork.mp3",
+    "image": "fork.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4063
+  },
+  {
+    "type": "Vocab",
+    "eng": "Four",
+    "jp": "<span class='ruby-wrapper'>四<span class='furigana'>よん</span></span>",
+    "category": "数字",
+    "audio": "four.mp3",
+    "image": "four.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3831
+  },
+  {
+    "type": "Vocab",
+    "eng": "Fourteen",
+    "jp": "<span class='ruby-wrapper'>十<span class='furigana'>じゅう</span></span><span class='ruby-wrapper'>四<span class='furigana'>よん</span></span>",
+    "category": "数字",
+    "audio": "fourteen.mp3",
+    "image": "fourteen.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.7082
+  },
+  {
+    "type": "Vocab",
+    "eng": "Fox",
+    "jp": "<span class='ruby-wrapper'>狐<span class='furigana'>きつね</span></span>",
+    "category": "動物",
+    "audio": "fox.mp3",
+    "image": "fox.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.476
+  },
+  {
+    "type": "Vocab",
+    "eng": "Frog",
+    "jp": "<span class='ruby-wrapper'>蛙<span class='furigana'>かえる</span></span>",
+    "category": "動物",
+    "audio": "frog.mp3",
+    "image": "frog.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3715
+  },
+  {
+    "type": "Vocab",
+    "eng": "Garlic",
+    "jp": "ニンニク",
+    "category": "食べ物",
+    "audio": "garlic.mp3",
+    "image": "garlic.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3831
+  },
+  {
+    "type": "Vocab",
+    "eng": "Ginger",
+    "jp": "<span class='ruby-wrapper'>生<span class='furigana'>しょう</span></span><span class='ruby-wrapper'>姜<span class='furigana'>が</span></span>",
+    "category": "食べ物",
+    "audio": "ginger.mp3",
+    "image": "ginger.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5341
+  },
+  {
+    "type": "Vocab",
+    "eng": "Giraffe",
+    "jp": "キリン",
+    "category": "動物",
+    "audio": "giraffe.mp3",
+    "image": "giraffe.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.476
+  },
+  {
+    "type": "Vocab",
+    "eng": "Glasses",
+    "jp": "メガネ",
+    "category": "日常",
+    "audio": "glasses.mp3",
+    "image": "glasses.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5573
+  },
+  {
+    "type": "Vocab",
+    "eng": "Goat",
+    "jp": "ヤギ",
+    "category": "動物",
+    "audio": "goat.mp3",
+    "image": "goat.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4063
+  },
+  {
+    "type": "Vocab",
+    "eng": "Grape",
+    "jp": "ぶどう",
+    "category": "食べ物",
+    "audio": "grape.mp3",
+    "image": "grape.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4644
+  },
+  {
+    "type": "Vocab",
+    "eng": "Green",
+    "jp": "<span class='ruby-wrapper'>緑<span class='furigana'>みどり</span></span>",
+    "category": "色",
+    "audio": "green.mp3",
+    "image": "green.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4644
+  },
+  {
+    "type": "Vocab",
+    "eng": "Hat",
+    "jp": "<span class='ruby-wrapper'>帽<span class='furigana'>ぼう</span></span><span class='ruby-wrapper'>子<span class='furigana'>し</span></span>",
+    "category": "日常",
+    "audio": "hat.mp3",
+    "image": "hat.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3715
+  },
+  {
+    "type": "Vocab",
+    "eng": "Hippo",
+    "jp": "カバ",
+    "category": "動物",
+    "audio": "hippo.mp3",
+    "image": "hippo.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.418
+  },
+  {
+    "type": "Vocab",
+    "eng": "Honey",
+    "jp": "はちみつ",
+    "category": "食べ物",
+    "audio": "honey.mp3",
+    "image": "honey.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3715
+  },
+  {
+    "type": "Vocab",
+    "eng": "Horse",
+    "jp": "<span class='ruby-wrapper'>馬<span class='furigana'>うま</span></span>",
+    "category": "動物",
+    "audio": "horse.mp3",
+    "image": "horse.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4296
+  },
+  {
+    "type": "Vocab",
+    "eng": "Ice cream",
+    "jp": "アイスクリーム",
+    "category": "食べ物",
+    "audio": "ice_cream.mp3",
+    "image": "ice_cream.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.7198
+  },
+  {
+    "type": "Vocab",
+    "eng": "Ink",
+    "jp": "<span class='ruby-wrapper'>墨<span class='furigana'>すみ</span></span>",
+    "category": "日常",
+    "audio": "ink.mp3",
+    "image": "ink.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3947
+  },
+  {
+    "type": "Vocab",
+    "eng": "Juice",
+    "jp": "ジュース",
+    "category": "食べ物",
+    "audio": "juice.mp3",
+    "image": "juice.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5224
+  },
+  {
+    "type": "Vocab",
+    "eng": "Key",
+    "jp": "<span class='ruby-wrapper'>鍵<span class='furigana'>かぎ</span></span>",
+    "category": "日常",
+    "audio": "key.mp3",
+    "image": "key.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3831
+  },
+  {
+    "type": "Vocab",
+    "eng": "Knife",
+    "jp": "ナイフ",
+    "category": "日常",
+    "audio": "knife.mp3",
+    "image": "knife.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4412
+  },
+  {
+    "type": "Vocab",
+    "eng": "Lemon",
+    "jp": "レモン",
+    "category": "食べ物",
+    "audio": "lemon.mp3",
+    "image": "lemon.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4992
+  },
+  {
+    "type": "Vocab",
+    "eng": "Leopard",
+    "jp": "ヒョウ",
+    "category": "動物",
+    "audio": "leopard.mp3",
+    "image": "leopard.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5921
+  },
+  {
+    "type": "Vocab",
+    "eng": "Lion",
+    "jp": "ライオン",
+    "category": "動物",
+    "audio": "lion.mp3",
+    "image": "lion.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5224
+  },
+  {
+    "type": "Vocab",
+    "eng": "Lizard",
+    "jp": "トカゲ",
+    "category": "動物",
+    "audio": "lizard.mp3",
+    "image": "lizard.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4528
+  },
+  {
+    "type": "Vocab",
+    "eng": "Magazine",
+    "jp": "<span class='ruby-wrapper'>雑誌<span class='furigana'>ざっし</span></span>",
+    "category": "日常",
+    "audio": "magazine.mp3",
+    "image": "magazine.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.6734
+  },
+  {
+    "type": "Vocab",
+    "eng": "Map",
+    "jp": "<span class='ruby-wrapper'>地<span class='furigana'>ち</span></span><span class='ruby-wrapper'>図<span class='furigana'>ず</span></span>",
+    "category": "日常",
+    "audio": "map.mp3",
+    "image": "map.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3135
+  },
+  {
+    "type": "Vocab",
+    "eng": "Milk",
+    "jp": "<span class='ruby-wrapper'>牛<span class='furigana'>ぎゅう</span></span><span class='ruby-wrapper'>乳<span class='furigana'>にゅう</span></span>",
+    "category": "食べ物",
+    "audio": "milk.mp3",
+    "image": "milk.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3715
+  },
+  {
+    "type": "Vocab",
+    "eng": "Monkey",
+    "jp": "<span class='ruby-wrapper'>猿<span class='furigana'>さる</span></span>",
+    "category": "動物",
+    "audio": "monkey.mp3",
+    "image": "monkey.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5805
+  },
+  {
+    "type": "Vocab",
+    "eng": "Mouse",
+    "jp": "ネズミ",
+    "category": "動物",
+    "audio": "mouse.mp3",
+    "image": "mouse.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5108
+  },
+  {
+    "type": "Vocab",
+    "eng": "Mushroom",
+    "jp": "きのこ",
+    "category": "食べ物",
+    "audio": "mushroom.mp3",
+    "image": "mushroom.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.6734
+  },
+  {
+    "type": "Vocab",
+    "eng": "Nine",
+    "jp": "<span class='ruby-wrapper'>九<span class='furigana'>きゅう</span></span>",
+    "category": "数字",
+    "audio": "nine.mp3",
+    "image": "nine.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5341
+  },
+  {
+    "type": "Vocab",
+    "eng": "Nineteen",
+    "jp": "<span class='ruby-wrapper'>十<span class='furigana'>じゅう</span></span><span class='ruby-wrapper'>九<span class='furigana'>きゅう</span></span>",
+    "category": "数字",
+    "audio": "nineteen.mp3",
+    "image": "nineteen.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.6966
+  },
+  {
+    "type": "Vocab",
+    "eng": "Oil",
+    "jp": "<span class='ruby-wrapper'>油<span class='furigana'>あぶら</span></span>",
+    "category": "食べ物",
+    "audio": "oil.mp3",
+    "image": "oil.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4063
+  },
+  {
+    "type": "Vocab",
+    "eng": "One",
+    "jp": "<span class='ruby-wrapper'>一<span class='furigana'>いち</span></span>",
+    "category": "数字",
+    "audio": "one.mp3",
+    "image": "one.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3251
+  },
+  {
+    "type": "Vocab",
+    "eng": "Onion",
+    "jp": "<span class='ruby-wrapper'>玉<span class='furigana'>たま</span></span>ねぎ",
+    "category": "食べ物",
+    "audio": "onion.mp3",
+    "image": "onion.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5921
+  },
+  {
+    "type": "Vocab",
+    "eng": "Orange",
+    "jp": "オレンジ<span class='ruby-wrapper'>色<span class='furigana'>いろ</span></span>",
+    "category": "色",
+    "audio": "orange.mp3",
+    "image": "orange.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5689
+  },
+  {
+    "type": "Vocab",
+    "eng": "Ostrich",
+    "jp": "ダチョウ",
+    "category": "動物",
+    "audio": "ostrich.mp3",
+    "image": "ostrich.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.7082
+  },
+  {
+    "type": "Vocab",
+    "eng": "Owl",
+    "jp": "フクロウ",
+    "category": "動物",
+    "audio": "owl.mp3",
+    "image": "owl.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.476
+  },
+  {
+    "type": "Vocab",
+    "eng": "Pan",
+    "jp": "フライパン",
+    "category": "日常",
+    "audio": "pan.mp3",
+    "image": "pan.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4063
+  },
+  {
+    "type": "Vocab",
+    "eng": "Pants",
+    "jp": "ズボン",
+    "category": "日常",
+    "audio": "pants.mp3",
+    "image": "pants.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5108
+  },
+  {
+    "type": "Vocab",
+    "eng": "Paper",
+    "jp": "<span class='ruby-wrapper'>紙<span class='furigana'>かみ</span></span>",
+    "category": "日常",
+    "audio": "paper.mp3",
+    "image": "paper.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4296
+  },
+  {
+    "type": "Vocab",
+    "eng": "Peach",
+    "jp": "<span class='ruby-wrapper'>桃<span class='furigana'>もも</span></span>",
+    "category": "食べ物",
+    "audio": "peach.mp3",
+    "image": "peach.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.476
+  },
+  {
+    "type": "Vocab",
+    "eng": "Pear",
+    "jp": "<span class='ruby-wrapper'>梨<span class='furigana'>なし</span></span>",
+    "category": "食べ物",
+    "audio": "pear.mp3",
+    "image": "pear.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3483
+  },
+  {
+    "type": "Vocab",
+    "eng": "Pen",
+    "jp": "ペン",
+    "category": "日常",
+    "audio": "pen.mp3",
+    "image": "pen.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3831
+  },
+  {
+    "type": "Vocab",
+    "eng": "Pencil",
+    "jp": "<span class='ruby-wrapper'>鉛<span class='furigana'>えん</span></span><span class='ruby-wrapper'>筆<span class='furigana'>ぴつ</span></span>",
+    "category": "日常",
+    "audio": "pencil.mp3",
+    "image": "pencil.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4644
+  },
+  {
+    "type": "Vocab",
+    "eng": "Pepper",
+    "jp": "<span class='ruby-wrapper'>胡<span class='furigana'>こ</span></span><span class='ruby-wrapper'>椒<span class='furigana'>しょう</span></span>",
+    "category": "食べ物",
+    "audio": "pepper.mp3",
+    "image": "pepper.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4063
+  },
+  {
+    "type": "Vocab",
+    "eng": "Persimmon",
+    "jp": "<span class='ruby-wrapper'>柿<span class='furigana'>かき</span></span>",
+    "category": "食べ物",
+    "audio": "persimmon.mp3",
+    "image": "persimmon.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.6385
+  },
+  {
+    "type": "Vocab",
+    "eng": "Phone",
+    "jp": "<span class='ruby-wrapper'>携<span class='furigana'>けい</span></span><span class='ruby-wrapper'>帯<span class='furigana'>たい</span></span>",
+    "category": "日常",
+    "audio": "phone.mp3",
+    "image": "phone.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4992
+  },
+  {
+    "type": "Vocab",
+    "eng": "Pig",
+    "jp": "<span class='ruby-wrapper'>豚<span class='furigana'>ぶた</span></span>",
+    "category": "動物",
+    "audio": "pig.mp3",
+    "image": "pig.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.2786
+  },
+  {
+    "type": "Vocab",
+    "eng": "Pineapple",
+    "jp": "パイナップル",
+    "category": "食べ物",
+    "audio": "pineapple.mp3",
+    "image": "pineapple.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.6385
+  },
+  {
+    "type": "Vocab",
+    "eng": "Pink",
+    "jp": "ピンク",
+    "category": "色",
+    "audio": "pink.mp3",
+    "image": "pink.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4063
+  },
+  {
+    "type": "Vocab",
+    "eng": "Pizza",
+    "jp": "ピザ",
+    "category": "食べ物",
+    "audio": "pizza.mp3",
+    "image": "pizza.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4876
+  },
+  {
+    "type": "Vocab",
+    "eng": "Plate",
+    "jp": "お<span class='ruby-wrapper'>皿<span class='furigana'>さら</span></span>",
+    "category": "日常",
+    "audio": "plate.mp3",
+    "image": "plate.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4644
+  },
+  {
+    "type": "Vocab",
+    "eng": "Pot",
+    "jp": "<span class='ruby-wrapper'>鍋<span class='furigana'>なべ</span></span>",
+    "category": "日常",
+    "audio": "pot.mp3",
+    "image": "pot.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3483
+  },
+  {
+    "type": "Vocab",
+    "eng": "Potato",
+    "jp": "ジャガイモ",
+    "category": "食べ物",
+    "audio": "potato.mp3",
+    "image": "potato.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.6153
+  },
+  {
+    "type": "Vocab",
+    "eng": "Pumpkin",
+    "jp": "かぼちゃ",
+    "category": "食べ物",
+    "audio": "pumpkin.mp3",
+    "image": "pumpkin.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5457
+  },
+  {
+    "type": "Vocab",
+    "eng": "Purple",
+    "jp": "<span class='ruby-wrapper'>紫<span class='furigana'>むらさき</span></span>",
+    "category": "色",
+    "audio": "purple.mp3",
+    "image": "purple.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4296
+  },
+  {
+    "type": "Vocab",
+    "eng": "Rabbit",
+    "jp": "ウサギ",
+    "category": "動物",
+    "audio": "rabbit.mp3",
+    "image": "rabbit.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5689
+  },
+  {
+    "type": "Vocab",
+    "eng": "Raccoon",
+    "jp": "アライグマ",
+    "category": "動物",
+    "audio": "raccoon.mp3",
+    "image": "raccoon.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.6734
+  },
+  {
+    "type": "Vocab",
+    "eng": "Red",
+    "jp": "<span class='ruby-wrapper'>赤<span class='furigana'>あか</span></span>",
+    "category": "色",
+    "audio": "red.mp3",
+    "image": "red.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4296
+  },
+  {
+    "type": "Vocab",
+    "eng": "Rhino",
+    "jp": "サイ",
+    "category": "動物",
+    "audio": "rhino.mp3",
+    "image": "rhino.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5805
+  },
+  {
+    "type": "Vocab",
+    "eng": "Rice",
+    "jp": "ご<span class='ruby-wrapper'>飯<span class='furigana'>はん</span></span>",
+    "category": "食べ物",
+    "audio": "rice.mp3",
+    "image": "rice.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4992
+  },
+  {
+    "type": "Vocab",
+    "eng": "Ring",
+    "jp": "<span class='ruby-wrapper'>指<span class='furigana'>ゆび</span></span><span class='ruby-wrapper'>輪<span class='furigana'>わ</span></span>",
+    "category": "日常",
+    "audio": "ring.mp3",
+    "image": "ring.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4063
+  },
+  {
+    "type": "Vocab",
+    "eng": "Rope",
+    "jp": "<span class='ruby-wrapper'>縄<span class='furigana'>なわ</span></span>",
+    "category": "日常",
+    "audio": "rope.mp3",
+    "image": "rope.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.2902
+  },
+  {
+    "type": "Vocab",
+    "eng": "Ruler",
+    "jp": "<span class='ruby-wrapper'>定<span class='furigana'>じょう</span></span><span class='ruby-wrapper'>規<span class='furigana'>ぎ</span></span>",
+    "category": "日常",
+    "audio": "ruler.mp3",
+    "image": "ruler.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5108
+  },
+  {
+    "type": "Vocab",
+    "eng": "Salad",
+    "jp": "サラダ",
+    "category": "食べ物",
+    "audio": "salad.mp3",
+    "image": "salad.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5805
+  },
+  {
+    "type": "Vocab",
+    "eng": "Salt",
+    "jp": "<span class='ruby-wrapper'>塩<span class='furigana'>しお</span></span>",
+    "category": "食べ物",
+    "audio": "salt.mp3",
+    "image": "salt.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5805
+  },
+  {
+    "type": "Vocab",
+    "eng": "Scissors",
+    "jp": "ハサミ",
+    "category": "日常",
+    "audio": "scissors.mp3",
+    "image": "scissors.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.6037
+  },
+  {
+    "type": "Vocab",
+    "eng": "Seven",
+    "jp": "<span class='ruby-wrapper'>七<span class='furigana'>なな</span></span>",
+    "category": "数字",
+    "audio": "seven.mp3",
+    "image": "seven.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5224
+  },
+  {
+    "type": "Vocab",
+    "eng": "Seventeen",
+    "jp": "<span class='ruby-wrapper'>十<span class='furigana'>じゅう</span></span><span class='ruby-wrapper'>七<span class='furigana'>なな</span></span>",
+    "category": "数字",
+    "audio": "seventeen.mp3",
+    "image": "seventeen.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.6966
+  },
+  {
+    "type": "Vocab",
+    "eng": "Shark",
+    "jp": "サメ",
+    "category": "動物",
+    "audio": "shark.mp3",
+    "image": "shark.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3831
+  },
+  {
+    "type": "Vocab",
+    "eng": "Sheep",
+    "jp": "<span class='ruby-wrapper'>羊<span class='furigana'>ひつじ</span></span>",
+    "category": "動物",
+    "audio": "sheep.mp3",
+    "image": "sheep.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3831
+  },
+  {
+    "type": "Vocab",
+    "eng": "Shirt",
+    "jp": "シャツ",
+    "category": "日常",
+    "audio": "shirt.mp3",
+    "image": "shirt.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5921
+  },
+  {
+    "type": "Vocab",
+    "eng": "Shoe",
+    "jp": "<span class='ruby-wrapper'>靴<span class='furigana'>くつ</span></span>",
+    "category": "日常",
+    "audio": "shoe.mp3",
+    "image": "shoe.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4063
+  },
+  {
+    "type": "Vocab",
+    "eng": "Six",
+    "jp": "<span class='ruby-wrapper'>六<span class='furigana'>ろく</span></span>",
+    "category": "数字",
+    "audio": "six.mp3",
+    "image": "six.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4992
+  },
+  {
+    "type": "Vocab",
+    "eng": "Sixteen",
+    "jp": "<span class='ruby-wrapper'>十<span class='furigana'>じゅう</span></span><span class='ruby-wrapper'>六<span class='furigana'>ろく</span></span>",
+    "category": "数字",
+    "audio": "sixteen.mp3",
+    "image": "sixteen.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.743
+  },
+  {
+    "type": "Vocab",
+    "eng": "Snail",
+    "jp": "カタツムリ",
+    "category": "動物",
+    "audio": "snail.mp3",
+    "image": "snail.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5921
+  },
+  {
+    "type": "Vocab",
+    "eng": "Snake",
+    "jp": "<span class='ruby-wrapper'>蛇<span class='furigana'>へび</span></span>",
+    "category": "動物",
+    "audio": "snake.mp3",
+    "image": "snake.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4528
+  },
+  {
+    "type": "Vocab",
+    "eng": "Soap",
+    "jp": "<span class='ruby-wrapper'>石鹸<span class='furigana'>せっけん</span></span>",
+    "category": "日常",
+    "audio": "soap.mp3",
+    "image": "soap.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4296
+  },
+  {
+    "type": "Vocab",
+    "eng": "Sock",
+    "jp": "<span class='ruby-wrapper'>靴<span class='furigana'>くつ</span></span><span class='ruby-wrapper'>下<span class='furigana'>した</span></span>",
+    "category": "日常",
+    "audio": "sock.mp3",
+    "image": "sock.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3599
+  },
+  {
+    "type": "Vocab",
+    "eng": "Soup",
+    "jp": "スープ",
+    "category": "食べ物",
+    "audio": "soup.mp3",
+    "image": "soup.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3483
+  },
+  {
+    "type": "Vocab",
+    "eng": "Soy sauce",
+    "jp": "<span class='ruby-wrapper'>醤<span class='furigana'>しょう</span></span><span class='ruby-wrapper'>油<span class='furigana'>ゆ</span></span>",
+    "category": "食べ物",
+    "audio": "soy_sauce.mp3",
+    "image": "soy_sauce.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.7082
+  },
+  {
+    "type": "Vocab",
+    "eng": "Spinach",
+    "jp": "ほうれん<span class='ruby-wrapper'>草<span class='furigana'>そう</span></span>",
+    "category": "食べ物",
+    "audio": "spinach.mp3",
+    "image": "spinach.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.7546
+  },
+  {
+    "type": "Vocab",
+    "eng": "Spoon",
+    "jp": "スプーン",
+    "category": "日常",
+    "audio": "spoon.mp3",
+    "image": "spoon.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5573
+  },
+  {
+    "type": "Vocab",
+    "eng": "Strawberry",
+    "jp": "いちご",
+    "category": "食べ物",
+    "audio": "strawberry.mp3",
+    "image": "strawberry.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.743
+  },
+  {
+    "type": "Vocab",
+    "eng": "Sugar",
+    "jp": "<span class='ruby-wrapper'>砂<span class='furigana'>さ</span></span><span class='ruby-wrapper'>糖<span class='furigana'>とう</span></span>",
+    "category": "食べ物",
+    "audio": "sugar.mp3",
+    "image": "sugar.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4644
+  },
+  {
+    "type": "Vocab",
+    "eng": "Tea",
+    "jp": "お<span class='ruby-wrapper'>茶<span class='furigana'>ちゃ</span></span>",
+    "category": "食べ物",
+    "audio": "tea.mp3",
+    "image": "tea.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3483
+  },
+  {
+    "type": "Vocab",
+    "eng": "Ten",
+    "jp": "<span class='ruby-wrapper'>十<span class='furigana'>じゅう</span></span>",
+    "category": "数字",
+    "audio": "ten.mp3",
+    "image": "ten.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3947
+  },
+  {
+    "type": "Vocab",
+    "eng": "Thirteen",
+    "jp": "<span class='ruby-wrapper'>十<span class='furigana'>じゅう</span></span><span class='ruby-wrapper'>三<span class='furigana'>さん</span></span>",
+    "category": "数字",
+    "audio": "thirteen.mp3",
+    "image": "thirteen.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.6269
+  },
+  {
+    "type": "Vocab",
+    "eng": "Three",
+    "jp": "<span class='ruby-wrapper'>三<span class='furigana'>さん</span></span>",
+    "category": "数字",
+    "audio": "three.mp3",
+    "image": "three.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4296
+  },
+  {
+    "type": "Vocab",
+    "eng": "Tiger",
+    "jp": "<span class='ruby-wrapper'>虎<span class='furigana'>とら</span></span>",
+    "category": "動物",
+    "audio": "tiger.mp3",
+    "image": "tiger.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5224
+  },
+  {
+    "type": "Vocab",
+    "eng": "Tofu",
+    "jp": "<span class='ruby-wrapper'>豆<span class='furigana'>とう</span></span><span class='ruby-wrapper'>腐<span class='furigana'>ふう</span></span>",
+    "category": "食べ物",
+    "audio": "tofu.mp3",
+    "image": "tofu.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5573
+  },
+  {
+    "type": "Vocab",
+    "eng": "Tomato",
+    "jp": "トマト",
+    "category": "食べ物",
+    "audio": "tomato.mp3",
+    "image": "tomato.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.6502
+  },
+  {
+    "type": "Vocab",
+    "eng": "Toothbrush",
+    "jp": "<span class='ruby-wrapper'>歯<span class='furigana'>は</span></span>ブラシ",
+    "category": "日常",
+    "audio": "toothbrush.mp3",
+    "image": "toothbrush.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.7663
+  },
+  {
+    "type": "Vocab",
+    "eng": "Toy",
+    "jp": "おもちゃ",
+    "category": "日常",
+    "audio": "toy.mp3",
+    "image": "toy.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4528
+  },
+  {
+    "type": "Vocab",
+    "eng": "Turtle",
+    "jp": "<span class='ruby-wrapper'>亀<span class='furigana'>かめ</span></span>",
+    "category": "動物",
+    "audio": "turtle.mp3",
+    "image": "turtle.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.476
+  },
+  {
+    "type": "Vocab",
+    "eng": "Twelve",
+    "jp": "<span class='ruby-wrapper'>十<span class='furigana'>じゅう</span></span><span class='ruby-wrapper'>二<span class='furigana'>に</span></span>",
+    "category": "数字",
+    "audio": "twelve.mp3",
+    "image": "twelve.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5921
+  },
+  {
+    "type": "Vocab",
+    "eng": "Twenty",
+    "jp": "<span class='ruby-wrapper'>二<span class='furigana'>に</span></span><span class='ruby-wrapper'>十<span class='furigana'>じゅう</span></span>",
+    "category": "数字",
+    "audio": "twenty.mp3",
+    "image": "twenty.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4992
+  },
+  {
+    "type": "Vocab",
+    "eng": "Two",
+    "jp": "<span class='ruby-wrapper'>二<span class='furigana'>に</span></span>",
+    "category": "数字",
+    "audio": "two.mp3",
+    "image": "two.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3947
+  },
+  {
+    "type": "Vocab",
+    "eng": "Wallet",
+    "jp": "<span class='ruby-wrapper'>財<span class='furigana'>さい</span></span><span class='ruby-wrapper'>布<span class='furigana'>ふう</span></span>",
+    "category": "日常",
+    "audio": "wallet.mp3",
+    "image": "wallet.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4992
+  },
+  {
+    "type": "Vocab",
+    "eng": "Watch",
+    "jp": "<span class='ruby-wrapper'>腕<span class='furigana'>うで</span></span><span class='ruby-wrapper'>時<span class='furigana'>ど</span></span><span class='ruby-wrapper'>計<span class='furigana'>けい</span></span>",
+    "category": "日常",
+    "audio": "watch.mp3",
+    "image": "watch.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4528
+  },
+  {
+    "type": "Vocab",
+    "eng": "Water",
+    "jp": "<span class='ruby-wrapper'>水<span class='furigana'>みず</span></span>",
+    "category": "食べ物",
+    "audio": "water.mp3",
+    "image": "water.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4992
+  },
+  {
+    "type": "Vocab",
+    "eng": "Watermelon",
+    "jp": "スイカ",
+    "category": "食べ物",
+    "audio": "watermelon.mp3",
+    "image": "watermelon.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.7082
+  },
+  {
+    "type": "Vocab",
+    "eng": "Whale",
+    "jp": "クジラ",
+    "category": "動物",
+    "audio": "whale.mp3",
+    "image": "whale.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5108
+  },
+  {
+    "type": "Vocab",
+    "eng": "White",
+    "jp": "<span class='ruby-wrapper'>白<span class='furigana'>しろ</span></span>",
+    "category": "色",
+    "audio": "white.mp3",
+    "image": "white.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.5224
+  },
+  {
+    "type": "Vocab",
+    "eng": "Wolf",
+    "jp": "オオカミ",
+    "category": "動物",
+    "audio": "wolf.mp3",
+    "image": "wolf.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.3831
+  },
+  {
+    "type": "Vocab",
+    "eng": "Yellow",
+    "jp": "<span class='ruby-wrapper'>黄<span class='furigana'>き</span></span><span class='ruby-wrapper'>色<span class='furigana'>いろ</span></span>",
+    "category": "色",
+    "audio": "yellow.mp3",
+    "image": "yellow.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.4992
+  },
+  {
+    "type": "Vocab",
+    "eng": "Zebra",
+    "jp": "シマウマ",
+    "category": "動物",
+    "audio": "zebra.mp3",
+    "image": "zebra.jpg",
+    "attr": "",
+    "effectiveAudioDuration": 0.7198
+  }
+]
